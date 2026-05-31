@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Yehan 👋
 
-<!--
-**yehan-mov/yehan-mov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who enjoys learning new things and spending time with technology. Most of the time you'll find me experimenting with code, working on small projects, or trying to understand how different tools and software work.
 
-Here are some ideas to get you started:
+### A few things about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Currently focused on learning and improving my skills
+- 💻 Interested in programming and technology
+- 🌱 Always trying to learn something new
+- 🚀 Building projects as I learn
+
+### What I'm working on
+
+Right now, I'm exploring different areas of programming and using GitHub to keep track of what I build and learn along the way.
